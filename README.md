@@ -1,7 +1,8 @@
 # TheLastOfUs2
 This is a web application built using React and Next.js. The main goal is to create a user-friendly and modern interface with a responsive design.
 
-![Uploading Снимок экрана 2025-08-05 в 15.56.37.png…]()
+
+<img width="1409" height="686" alt="Снимок экрана 2025-08-05 в 15 56 37" src="https://github.com/user-attachments/assets/c22722c3-4382-421c-a0b7-05dbcb3a0951" />
 
 
 ---
